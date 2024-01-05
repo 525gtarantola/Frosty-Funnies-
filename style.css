@@ -1,7 +1,7 @@
 body {
     font-family: Arial, sans-serif;
     font-family: 'Sevillana', cursive;
-    background-image: url(background.jpg);
+    background: linear-gradient(70deg, green, red);
     background-size: cover;
     background-repeat: no-repeat;
     background-blend-mode: overlay;
@@ -31,4 +31,3 @@ body {
     background-color: green;
     border-color: green;
   }
-
